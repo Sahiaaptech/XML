@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students xmlns:metro="https://aptech.com/metro" xmlns:sfc="https://aptech.com/sfc">
+	<metro:student>
+		<Name>Ashtar</Name>
+		<Email>ash@gmail.com</Email>
+		<Password>1234</Password>
+		<Batch>PR2-202206B</Batch>
+	</metro:student>
+	<metro:student>
+		<Name>Ubaid</Name>
+		<Email>ubi@gmail.com</Email>
+		<Password>1234</Password>
+		<Batch>PR2-202206B</Batch>
+	</metro:student>
+	<sfc:student>
+		<Name>M hamza</Name>
+		<Email>hami@gmail.com</Email>
+		<Password>1234</Password>
+		<Batch>PR2-202206B</Batch>
+	</sfc:student>
+	<sfc:student>
+		<Name>Abu Bakar</Name>
+		<Email>abu@gmail.com</Email>
+		<Password>1234</Password>
+		<Batch>PR2-202206B</Batch>
+	</sfc:student>
+	<metro:student>
+		<Name>Ahmed</Name>
+		<Email>Ahh@gmail.com</Email>
+		<Password>1234</Password>
+		<Batch>PR2-202206B</Batch>
+	</metro:student>
+	<metro:student>
+		<Name>Hmaza Ibrahim</Name>
+		<Email>hazi@gmail.com</Email>
+		<Password>1234</Password>
+		<Batch>PR2-202206B</Batch>
+	</metro:student>
+	<metro:student>
+		<Name>Fakiha</Name>
+		<Email>fakiha@gmail.com</Email>
+		<Password>1234</Password>
+		<Batch>PR2-202206B</Batch>
+	</metro:student>
+	<sfc:student>
+		<Name>Muneeza</Name>
+		<Email>mono@gmail.com</Email>
+		<Password>1234</Password>
+		<Batch>PR2-202206B</Batch>
+	</sfc:student>
+	<sfc:student>
+		<Name>Usama</Name>
+		<Email>us@gmail.com</Email>
+		<Password>1234</Password>
+		<Batch>PR2-202206B</Batch>
+	</sfc:student>
+</Students>
